@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/send_ethereum_web_3.0/static/css/main.9c259e89.css",
+    "main.js": "/send_ethereum_web_3.0/static/js/main.79ccf0ea.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/send_ethereum_web_3.0/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/send_ethereum_web_3.0/index.html",
+    "main.9c259e89.css.map": "/send_ethereum_web_3.0/static/css/main.9c259e89.css.map",
+    "main.79ccf0ea.js.map": "/send_ethereum_web_3.0/static/js/main.79ccf0ea.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/send_ethereum_web_3.0/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c259e89.css",
+    "static/js/main.79ccf0ea.js"
+  ]
+}
